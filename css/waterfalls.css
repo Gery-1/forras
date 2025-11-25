@@ -1,0 +1,101 @@
+header{
+    position: relative;    
+    background-image: url(../images/waterfalls_bg.jpg);
+    background-size: cover;
+    height: 300px;
+}
+
+h1{
+    font-size: 400%;
+    font-weight: bold;
+    color: white;
+    text-shadow: 1px 1px 10px;
+    position: absolute;
+    top: 50%;
+    right: 15%;
+}
+
+nav{
+    background-color: rgb(13, 58, 77);
+}
+
+.nav-item{
+    font-weight: bold;
+}
+
+h2{  
+    color: #0b425a;
+    border-left: 10px #4f8ea8 double;
+    background-color: rgba(115,161,179,0.24);
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top-right-radius: 40px;
+}
+
+th{
+    text-align: center;
+    position: relative;
+    top: 50%;
+}
+
+strong{
+    color:#0b425a;
+    letter-spacing: 1px;
+}
+
+footer{
+    background-color: #4f8ea8;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+table{
+    border:2px black solid;
+}
+
+.card_p{
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.card_h5{
+    text-align: center;
+    font-variant: small-caps;
+}
+
+p{
+    text-indent: 10px;
+}
+
+.alert{
+    font-style: italic;
+}
+
+.elso{
+    text-align: center;
+    font-weight: bold;
+}
+
+a{
+    text-transform: uppercase;
+}
+
+ul{
+    list-style-image: url(../images/splash.png);
+}
+
+button{
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.tovabbi{
+    text-decoration: none;
+    color: white;
+}
